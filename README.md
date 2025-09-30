@@ -1,4 +1,4 @@
-# 👋 Hola, soy Juan José Sánchez Corral
+# 👋 Hola, soy Juan José Sánchez Cosín
 
 ## 🚀 Técnico en Sistemas | Estudiante DAW | 20+ años de experiencia profesional
 
@@ -6,26 +6,42 @@ Profesional con dos décadas de experiencia en diversos sectores, ahora enfocado
 
 ## 💼 Mi Valor Único
 - **🎓 Formación Técnica:** Grado Medio en Sistemas Microinformáticos y Redes
+
 - **🚀 En Formación:** Desarrollo de Aplicaciones Web (DAW)
+
 - **💪 Experiencia:** 20 años en entornos profesionales diversos
+
 - **🔧 Actualmente:** Técnico de mantenimiento - Ciudad de la Justicia de Sagunto
+
 
 ## 🛠️ Stack Tecnológico
 - **Lenguajes:** Java, HTML, CSS, JavaScript (en formación)
+
 - **Herramientas:** IntelliJ IDEA, Git, GitHub, VS Code
+
 - **Metodologías:** Programación Estructurada, Resolución de Problemas
+
 - **Infraestructura:** Conocimientos en sistemas y redes
+
 
 ## 🎯 Objetivo Profesional
 Busco **media jornada por las tardes** (presencial o teletrabajo) donde pueda:
+
 - ✅ Aportar mi experiencia y conocimientos
 - ✅ Seguir aprendiendo desarrollo web
 - ✅ Realizar prácticas curriculares
 - ✅ Contribuir desde el primer día
 
 ## 📚 Proyectos de Programación
-- [**Programación Java**](https://github.com/juanjosanco-java/programacion-java) - Fundamentos sólidos de programación
-- **Ejercicios Estructurados** - Lógica, algoritmos y resolución de problemas
+
+- [**Programación Java**] (https://github.com/juanjosanco-java/programacion-java) 
+
+- Fundamentos sólidos de programación
+
+- **Ejercicios Estructurados** 
+
+- Lógica, algoritmos y resolución de problemas
+
 - **Próximamente** - Proyectos web full-stack
 
 ## 📫 Conecta Conmigo
