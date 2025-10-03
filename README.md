@@ -7,7 +7,7 @@ Profesional con dos décadas de experiencia en diversos sectores, ahora enfocado
 ## 💼 Mi Valor Único
 - **🎓 Formación Técnica:** Grado Medio en Sistemas Microinformáticos y Redes
 
-- **🚀 En Formación:** Desarrollo de Aplicaciones Web (DAW)
+- **🚀 En Formación:** Desarrollo de Aplicaciones Multiplataforma (DAM)
 
 - **💪 Experiencia:** 20 años en entornos profesionales diversos
 
