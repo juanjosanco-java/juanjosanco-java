@@ -1,6 +1,6 @@
 # 👋 Hola, soy Juan José Sánchez Cosín
 
-## 🚀 Técnico en Sistemas | Estudiante DAW | 20+ años de experiencia profesional
+## 🚀 Técnico en Sistemas | Estudiante DAM | 20+ años de experiencia profesional
 
 Profesional con dos décadas de experiencia en diversos sectores, ahora enfocado en mi transición al desarrollo web. Combino solidez profesional con pasión por la tecnología y el código.
 
